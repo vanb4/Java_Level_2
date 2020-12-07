@@ -20,5 +20,6 @@ public class Water extends Obstacle {
             System.out.println(a.getColor()+" "+ a.getType() + " " + a.getName() + " -Can't swim!");
             a.setOnDistance(false);
         }
+
     }
 }

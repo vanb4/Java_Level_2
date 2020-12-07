@@ -5,4 +5,5 @@ public interface Jumpable {
 
     void jump (int height);
 
+    void run(int lenght);
 }
